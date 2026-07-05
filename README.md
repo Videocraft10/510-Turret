@@ -9,7 +9,9 @@ The reason this project was made is because THE WORLD IS ENDING!!!! and soup nee
 
 We built this using 3D modeled parts and by working around components not readily available. For example, we did not have a lazy susan, so we got around that by using herringbone gears with edge blocks to hold a large gear in place with two other gears, essentially making a floating gear.
 
-___IMAGE____
+
+<img width="2480" height="3508" alt="510 Turret Zine Final" src="https://github.com/user-attachments/assets/e99345be-29f8-4ad6-8061-6b523cee8da0" />
+
 
 ### Disclaimer 
 
