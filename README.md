@@ -98,7 +98,7 @@ Arduino IDE → Settings → Additional Boards Manager URLs:
 
 Boards Manager → search esp32 → install latest (Espressif Systems)
 Connect XIAO C3 via USB-C → select board XIAO_ESP32C3 and the matching port
-Paste in the C3 firmware
+Paste in the C3 firmware (c3.ino)
 Verify it first, then Upload it
 Open Serial Monitor at 115200 baud to confirm it's running
 
@@ -110,7 +110,6 @@ pip3 install opencv-python mediapipe pyserial
 
 Open the tracking script and set SERIAL_PORT to match your board:
 
-
 macOS: /dev/cu.usbmodemXXXX
 Windows: COM3 (or similar)
 
@@ -119,13 +118,13 @@ Get the exact value from Arduino IDE's port dropdown.
 
 3. Running it
 
-
 Confirm XIAO C3 is wired (servos/laser powered from power bank, common ground with C3 — see wiring diagram) and connected to your Mac via USB-C
 Close Arduino Serial Monitor (it locks the port)
 Run:
 
+Paste in the python camera code (soupinator.py)
 
-bash   python3 soupinator_ai.py
+bash   python3 soupinator.py
 
 
 A webcam window opens — step into frame, servos should track your face, laser lights up on lock
