@@ -9,6 +9,8 @@ The reason this project was made is because THE WORLD IS ENDING!!!! and soup nee
 
 We built this using 3D modeled parts and by working around components not readily available. For example, we did not have a lazy susan, so we got around that by using herringbone gears with edge blocks to hold a large gear in place with two other gears, essentially making a floating gear.
 
+Promo Video: [here](https://youtu.be/GHd5qp_cuug)
+
 
 [Zine.pdf](https://github.com/user-attachments/files/29722932/Zine.pdf)
 
