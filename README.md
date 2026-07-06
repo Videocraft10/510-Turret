@@ -72,6 +72,9 @@ To attach them, screw the bottom of the Turret sidplates (there are holes) into 
 <img width="335" height="294" alt="image" src="https://github.com/user-attachments/assets/d4e20fac-d313-4566-ac4c-5a459bf41054" />
 
 ## Electrical
+Wire according to the wiring diagram. Use power from either a laptop (or recommended) a spliced usb cable to a plug.
+<img width="368" height="245" alt="Schematic" src="https://github.com/user-attachments/assets/8659886e-f5d3-408f-b013-6708d8768961" />
+
 
 ## Firmware
 AI Tracking Turret
