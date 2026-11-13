@@ -11,6 +11,8 @@ We built this using 3D modeled parts and by working around components not readil
 
 Promo Video: [here](https://youtu.be/GHd5qp_cuug)
 
+<img width="703" height="988" alt="image" src="https://github.com/user-attachments/assets/bb0fc1bd-b169-4c45-8298-d6cadf7ea9f5" />
+
 
 [Zine.pdf](https://github.com/user-attachments/files/29722932/Zine.pdf)
 
